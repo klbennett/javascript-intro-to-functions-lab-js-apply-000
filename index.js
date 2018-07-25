@@ -20,4 +20,4 @@ function sayHiToGrandma(string) {
     string === lowercase.toLowerCase 
   return "I can't here you!"
 }
-
+return ""
