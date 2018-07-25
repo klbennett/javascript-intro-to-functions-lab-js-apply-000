@@ -22,7 +22,7 @@ function sayHiToGrandma(string) {
   return "I can't hear you!";
 else if (string === string.toLowerCase)
 return "YES INDEED!";
-else if (string === string.toLowerCase)
-return "YES INDEED!";
+else if (string === string.toMixedCase)
+return "I love you, too.";
 }
 }
