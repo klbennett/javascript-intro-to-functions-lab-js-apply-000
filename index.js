@@ -1,1 +1,3 @@
-function shout(dtrin)
+function shout(string) {
+  
+}
